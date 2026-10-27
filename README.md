@@ -330,6 +330,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 
 #### Markdown
 
+* [markon](https://metaory.github.io/markon/) (`Cloud`, `Local PWA`): Minimal distraction-free live Markdown editor.
 * [Hackmd.io](https://hackmd.io) (`Cloud`): Basically ships with everything you expect from the most complete online markdown editor.
 * [StackEdit](https://stackedit.io/)(`Cloud`): StackEdit is a Markdown editor with many integrated services such as math (MathJax), Google Drive, Dropbox, and GitHub.
 * [CMD markdown](https://www.zybuluo.com/mdeditor)(`Cloud`): CMD is a Markdown editor with math (MathJax) support. What is special is that it keeps edit history. (Chinese UI.)
@@ -536,6 +537,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [vim](https://github.com/vim/vim)(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
   * [Vundle](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
   * [vimrc from amix](https://github.com/amix/vimrc): "The ultimate Vim configuration: vimrc"
+* [neovim](https://neovim.io/)(`Free`,`Cross-platform`,`Plugins`): Vim-fork focused on extensibility and usability.
 
 
 ### Softwares
